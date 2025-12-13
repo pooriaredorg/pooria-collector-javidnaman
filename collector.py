@@ -39,6 +39,8 @@ JAVID_NAMAN: List[str] = [
 SUB_LINKS: List[str] = [
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://farsonline24.ir/",
+    "https://manager.farsonline24.ir",
+    "https://office.farsonline24.ir/",
     "http://sabapardaziran.ir/download/sub?target=V2Ray",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/vless.html"
 ]
